@@ -1,5 +1,6 @@
 # AlignSal
-## Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection
+## Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection  
+Pengfei Lyu
 - (Code is coming soon.)
 - ![Framework](https://github.com/JoshuaLPF/AlignSal/blob/main/Figure/framework.png)
 In this project, we designed **AlignSal**, which achieves both real-time performance and high accuracy for UAV-based unaligned Bi-modal Salient Object Detection (BSOD). To this end, we first designed SCAL to align bi-modal features in a contrastive manner and enhance inter-modal information exchange. **Notably, SCAL not only works on our proposed AlignSal but also improves the performance of various existing aligned BSOD models on the unaligned BSOD data.** Second, we proposed the SAF to align slightly offset features in multiple dimensions and facilitate bi-modal fusion by efficiently acquiring global relevance. Extensive experiments demonstrated that AlignSal achieves significantly faster inference speed and superior performance compared to existing models on the UAV RGB-T 2400 dataset and three weakly aligned datasets. These advantages make AlignSal suitable for deployment on UAVs in practice, enabling its use in industrial and real-life applications that require both timeliness and accuracy.
