@@ -16,24 +16,20 @@ List of prerequisites or required libraries for the project to run:
 - numpy
 
 ## Datasets
-- VT821, VT1000, VT5000: Baidu cloud disk [link](https://pan.baidu.com/s/1Vv6mYz4RL2VnwWwZWKLHyA), fetch code (djas); 
-- VI-RGBT1500: [link](https://github.com/huanglm-me/VI-RGBT1500)
-## Pertrain Models
-
-|          |Params(M)| FLOPs(G)| Input size |  Backbone   |      |
-|----------|---------|---------|------------|-------------|------|
-| DFENet-m | 149.2   |  139.7  |  384x384   | CDFFormer-m | [link](https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ), fetch code(kbpy) |
-| DFENet-b | 264.6   |  238.0  |  384x384   | CDFFormer-b | [link](https://pan.baidu.com/s/1S23SqxzzsNj-39nkaxb7xA), fetch code(eysg) |
-| DFENet-h | 149.8   |  248.3  |  512x512   | CDFFormer-m | [link](https://pan.baidu.com/s/1kaJ4ukqcfhdoq1wvq9EDeQ), fetch code(ph20) |
+- UAV RGB-T 2400: [link](https://github.com/VDT-2048/UAV-RGB-T-2400); 
+- UNVT821, UNVT1000, UNVT5000: [link](https://github.com/lz118/Deep-Correlation-Network)
 
 ## Results
-The results of our DFENets (-m, -h, and -b) can be found at [link](https://pan.baidu.com/s/19aWbiGBD6AqWrP0e_PwYWw), fetch code(1ryz).
+The results of our AlignSal and other SOTA models
+- UAV RGB-T 2400:
+AlignSal [link](https://pan.baidu.com/s/1M2xWybKfdOV3GLhnxFQlQg?pwd=rxyj), fetch code(rxyj);
+-
 
 ## Evaluation Metrics Toolbox
 - The Evaluation Metrics Toolbox is available here: [link](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
 
 ## Acknowledgements
-- Thanks to all the seniors who put in the effort.
+- Thanks to all the seniors who put in the effort. [Kechen Song](https://github.com/VDT-2048?tab=repositories)
 
 ## Contact Us
 If you have any questions, please contact us ( lvpengfei1995@163.com ).
