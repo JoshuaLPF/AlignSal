@@ -17,17 +17,17 @@ List of prerequisites or required libraries for the project to run:
 - numpy
 
 ## Datasets
-- UAV RGB-T 2400: [link](https://github.com/VDT-2048/UAV-RGB-T-2400); 
+- UAV RGB-T 2400: [link](https://github.com/VDT-2048/UAV-RGB-T-2400);
 - UNVT821, UNVT1000, UNVT5000: [link](https://github.com/lz118/Deep-Correlation-Network)
 
 ## Results
 The results of our AlignSal and other SOTA models
 ### UAV RGB-T 2400:
--AlignSal: [link](https://pan.baidu.com/s/1M2xWybKfdOV3GLhnxFQlQg?pwd=rxyj), (rxyj);  
--Comparison model: [link](https://pan.baidu.com/s/165OwbmbMzwb5gPvwzBSpOQ?pwd=28f5), (28f5).
+- AlignSal: [link](https://pan.baidu.com/s/1M2xWybKfdOV3GLhnxFQlQg?pwd=rxyj), (rxyj);
+- Comparison model: [link](https://pan.baidu.com/s/165OwbmbMzwb5gPvwzBSpOQ?pwd=28f5), (28f5).
 ### UNVT821, UNVT1000, UNVT5000
--AlignSal: [link](https://pan.baidu.com/s/1hhboN8oskn4JPgXPgZ6kaA?pwd=8fvr), fetch code(8fvr);
--Comparison model: [link](https://pan.baidu.com/s/1oHcMoWgNS_0Ep43fegFUNA?pwd=nuns), fetch code(nuns).
+- AlignSal: [link](https://pan.baidu.com/s/1hhboN8oskn4JPgXPgZ6kaA?pwd=8fvr), fetch code(8fvr);
+- Comparison model: [link](https://pan.baidu.com/s/1oHcMoWgNS_0Ep43fegFUNA?pwd=nuns), fetch code(nuns).
 
 ## Evaluation Metrics Toolbox
 - The Evaluation Metrics Toolbox is available here: [link](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
