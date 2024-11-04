@@ -23,8 +23,8 @@ List of prerequisites or required libraries for the project to run:
 ## Results
 The results of our AlignSal and other SOTA models
 ### UAV RGB-T 2400:
--AlignSal: [link](https://pan.baidu.com/s/1M2xWybKfdOV3GLhnxFQlQg?pwd=rxyj), fetch code(rxyj);  
--Comparison model: [link](https://pan.baidu.com/s/165OwbmbMzwb5gPvwzBSpOQ?pwd=28f5), fetch code(28f5).
+-AlignSal: [link](https://pan.baidu.com/s/1M2xWybKfdOV3GLhnxFQlQg?pwd=rxyj), (rxyj);  
+-Comparison model: [link](https://pan.baidu.com/s/165OwbmbMzwb5gPvwzBSpOQ?pwd=28f5), (28f5).
 ### UNVT821, UNVT1000, UNVT5000
 -AlignSal: [link](https://pan.baidu.com/s/1hhboN8oskn4JPgXPgZ6kaA?pwd=8fvr), fetch code(8fvr);
 -Comparison model: [link](https://pan.baidu.com/s/1oHcMoWgNS_0Ep43fegFUNA?pwd=nuns), fetch code(nuns).
