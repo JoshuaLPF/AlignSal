@@ -17,7 +17,7 @@ List of prerequisites or required libraries for the project to run:
 - Python 3.8 or higher
 - tensorboardX
 - opencv-python
-- timm == 0.5.4
+- timm==0.6.13
 - thop
 - numpy
 
