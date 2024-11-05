@@ -41,4 +41,4 @@ The results of our AlignSal and other SOTA models
 - Thanks to all the seniors, and projects (*e.g.*, [MROS](https://github.com/VDT-2048/UAV-RGB-T-2400), [ContrastAlign](https://github.com/modaxiansheng/ContrastAlign/), [DCNet](https://github.com/lz118/Deep-Correlation-Network), and [SwinNet](https://github.com/liuzywen/SwinNet)).
 
 ## Contact Us
-If you have any questions, please contact us (lyupengfei@stumail.neu.edu.cn, lvpengfei1995@163.com).
+If you have any questions, please contact us (lvpengfei1995@163.com).
