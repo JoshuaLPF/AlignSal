@@ -1,5 +1,5 @@
 # AlignSal
-## Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection [paper](https://arxiv.org/abs/2411.03728)
+## Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.03728)
 - **November 4, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
 - ![Framework](https://github.com/JoshuaLPF/AlignSal/blob/main/Figure/framework.png)
