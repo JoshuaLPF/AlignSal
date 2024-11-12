@@ -8,14 +8,14 @@ To this end, we first designed **Semantic contrastive alignment loss (SCAL)** to
 Second, we proposed the **Synchronized Alignment Fusion (SAF)** to align slightly offset features in multiple dimensions and facilitate bi-modal fusion by efficiently acquiring global relevance.  
 Extensive experiments demonstrated that AlignSal achieves significantly faster inference speed and superior performance compared to existing models on the UAV RGB-T 2400 dataset and three weakly aligned datasets. These advantages make AlignSal suitable for deployment on UAVs in practice, enabling its use in industrial and real-life applications that require both timeliness and accuracy.
 - Please cite our paper if you find it useful for your research.
-'''
+```
 @article{lyu2024efficient,
   title={Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection},
   author={Lyu, Pengfei and Yeung, Pak-Hei and Cheng, Xiufei and Yu, Xiaosheng and Wu, Chengdong and Rajapakse, Jagath C},
   journal={arXiv preprint arXiv:2411.03728},
   year={2024}
 }
-'''
+```
 
 ## Requirements
 
