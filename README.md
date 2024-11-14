@@ -32,7 +32,7 @@ List of prerequisites or required libraries for the project to run:
 
 ## Datasets
 - UAV RGB-T 2400: [link](https://github.com/VDT-2048/UAV-RGB-T-2400);
-- UNVT821, UNVT1000, UNVT5000: [link](https://github.com/lz118/Deep-Correlation-Network)
+- UNVT821, UNVT1000, UNVT5000: [link](https://github.com/lz118/Deep-Correlation-Network).
 
 ## Results
 The results of our AlignSal and other SOTA models
