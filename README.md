@@ -9,11 +9,12 @@ Second, we proposed the **Synchronized Alignment Fusion (SAF)** to align slightl
 Extensive experiments demonstrated that AlignSal achieves significantly faster inference speed and superior performance compared to existing models on the UAV RGB-T 2400 dataset and three weakly aligned datasets. These advantages make AlignSal suitable for deployment on UAVs in practice, enabling its use in industrial and real-life applications that require both timeliness and accuracy.
 - Please cite our paper if you find it useful for your research.
 ```
-@article{lyu2024efficient,
+@article{lyu2025efficient,
   title={Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection},
-  author={Lyu, Pengfei and Yeung, Pak-Hei and Cheng, Xiufei and Yu, Xiaosheng and Wu, Chengdong and Rajapakse, Jagath C},
-  journal={arXiv preprint arXiv:2411.03728},
-  year={2024}
+  author={Lyu, Pengfei and Yeung, Pak-Hei and Yu, Xiaosheng and Cheng, Xiufei and Wu, Chengdong and Rajapakse, Jagath C},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
