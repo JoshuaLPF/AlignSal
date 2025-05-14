@@ -1,9 +1,5 @@
 # AlignSal -- TGRS 2025
 ## Efficient Fourier Filtering Network with Contrastive Learning for AAV-based Unaligned Bi-modal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.03728)
-- **April 2, 2025**  
-  The paper is accepted by TGRS:tada::tada:
-- **November 4, 2024**  
-  The paper is undergoing peer review. The code will be released upon acceptance of the paper.
 - ![Framework](https://github.com/JoshuaLPF/AlignSal/blob/main/Figure/framework.png)
 - In this project, we designed **AlignSal**, which achieves both real-time performance and high accuracy for UAV-based unaligned Bi-modal Salient Object Detection (BSOD).  
 - Please cite our paper if you find it useful for your research.
@@ -16,6 +12,17 @@
   volume={63},
   number={},
   pages={1-12},
+  publisher={IEEE}
+}
+
+@ARTICLE{10982382,
+  author={Lyu, Pengfei and Yu, Xiaosheng and Chi, Jianning and Wu, Hao and Wu, Chengdong and Rajapakse, Jagath C.},
+  journal={IEEE Transactions on Image Processing}, 
+  title={TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection}, 
+  year={2025},
+  volume={34},
+  number={},
+  pages={2796-2810},
   publisher={IEEE}
 }
 ```
