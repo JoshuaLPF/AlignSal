@@ -1,7 +1,7 @@
 # AlignSal -- TGRS 2025
 ## Efficient Fourier Filtering Network with Contrastive Learning for AAV-based Unaligned Bi-modal Salient Object Detection [[arXiv]](https://arxiv.org/abs/2411.03728) [[IEEE]](https://ieeexplore.ieee.org/document/10975009)
 - ![Framework](https://github.com/JoshuaLPF/AlignSal/blob/main/Figure/framework.png)
-- In this project, we designed **AlignSal**, which achieves both real-time performance and high accuracy for UAV-based unaligned Bi-modal Salient Object Detection (BSOD).  
+- In this project, we designed **AlignSal**, which achieves both real-time performance and high accuracy for AAV-based unaligned Bi-modal Salient Object Detection (BSOD).  
 - Please cite our paper if you find it useful for your research.
 ```
 @ARTICLE{10975009,
