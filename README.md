@@ -1,19 +1,21 @@
 # AlignSal -- TGRS 2025
-## Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.03728)
+## Efficient Fourier Filtering Network with Contrastive Learning for AAV-based Unaligned Bi-modal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.03728)
+- **April 2, 2025**  
+  The paper is accepted by TGRS:tada::tada:
 - **November 4, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
 - ![Framework](https://github.com/JoshuaLPF/AlignSal/blob/main/Figure/framework.png)
 - In this project, we designed **AlignSal**, which achieves both real-time performance and high accuracy for UAV-based unaligned Bi-modal Salient Object Detection (BSOD).  
-To this end, we first designed **Semantic contrastive alignment loss (SCAL)** to align bi-modal features in a contrastive manner. **Notably, SCAL not only works on our proposed AlignSal but also improves the performance of various existing aligned BSOD models on the unaligned BSOD data.**  
-Second, we proposed the **Synchronized Alignment Fusion (SAF)** to align slightly offset features in multiple dimensions and facilitate bi-modal fusion by efficiently acquiring global relevance.  
-Extensive experiments demonstrated that AlignSal achieves significantly faster inference speed and superior performance compared to existing models on the UAV RGB-T 2400 dataset and three weakly aligned datasets. These advantages make AlignSal suitable for deployment on UAVs in practice, enabling its use in industrial and real-life applications that require both timeliness and accuracy.
 - Please cite our paper if you find it useful for your research.
 ```
-@article{lyu2025efficient,
-  title={Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection},
-  author={Lyu, Pengfei and Yeung, Pak-Hei and Yu, Xiaosheng and Cheng, Xiufei and Wu, Chengdong and Rajapakse, Jagath C},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
+@ARTICLE{10975009,
+  author={Lyu, Pengfei and Yeung, Pak-Hei and Yu, Xiaosheng and Cheng, Xiufei and Wu, Chengdong and Rajapakse, Jagath C.},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection}, 
   year={2025},
+  volume={63},
+  number={},
+  pages={1-12},
   publisher={IEEE}
 }
 ```
@@ -31,7 +33,7 @@ List of prerequisites or required libraries for the project to run:
 - thop
 - numpy
 
-## Datasets
+## Datasets in paper
 - UAV RGB-T 2400: [link](https://github.com/VDT-2048/UAV-RGB-T-2400);
 - UNVT821, UNVT1000, UNVT5000: [link](https://github.com/lz118/Deep-Correlation-Network).
 
