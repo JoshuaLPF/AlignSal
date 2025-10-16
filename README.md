@@ -41,6 +41,7 @@ List of prerequisites or required libraries for the project to run:
 - numpy
 
 ## Datasets in paper
+- Please resize the bimodal images to the same size before training.
 - UAV RGB-T 2400: [link](https://github.com/VDT-2048/UAV-RGB-T-2400);
 - UNVT821, UNVT1000, UNVT5000: [link](https://github.com/lz118/Deep-Correlation-Network).
 
