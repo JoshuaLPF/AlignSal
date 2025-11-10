@@ -4,25 +4,11 @@
 - In this project, we designed **AlignSal**, which achieves both real-time performance and high accuracy for AAV-based unaligned Bi-modal Salient Object Detection (BSOD).  
 - Please cite our paper if you find it useful for your research.
 ```
-@ARTICLE{10975009,
-  author={Lyu, Pengfei and Yeung, Pak-Hei and Yu, Xiaosheng and Cheng, Xiufei and Wu, Chengdong and Rajapakse, Jagath C.},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Efficient Fourier Filtering Network With Contrastive Learning for AAV-Based Unaligned Bimodal Salient Object Detection}, 
+@article{lyu2025efficient,
+  title={Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection},
+  author={Lyu, Pengfei and Yeung, Pak-Hei and Yu, Xiaosheng and Cheng, Xiufei and Wu, Chengdong and Rajapakse, Jagath C},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2025},
-  volume={63},
-  number={},
-  pages={1-12},
-  publisher={IEEE}
-}
-
-@ARTICLE{10982382,
-  author={Lyu, Pengfei and Yu, Xiaosheng and Chi, Jianning and Wu, Hao and Wu, Chengdong and Rajapakse, Jagath C.},
-  journal={IEEE Transactions on Image Processing}, 
-  title={TwinsTNet: Broad-View Twins Transformer Network for Bi-Modal Salient Object Detection}, 
-  year={2025},
-  volume={34},
-  number={},
-  pages={2796-2810},
   publisher={IEEE}
 }
 ```
